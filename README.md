@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Vulnerability Assessment Lab with Nessus](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Home Labs</b>
+  - [Vulnerability Assessment Lab with Nessus](https://github.com/vamshianirudh/VulnerabilityAssessmentwithNessus)
 
 
 <h2>Certifications</h2>
