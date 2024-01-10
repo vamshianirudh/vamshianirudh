@@ -4,7 +4,7 @@
 
 - <b>Home Labs</b>
   - [Vulnerability Assessment Lab with Nessus](https://github.com/vamshianirudh/VulnerabilityAssessmentwithNessus)
-
+  - [Honeypot Deployment in Azure Cloud](https://github.com/vamshianirudh/VulnerabilityAssessmentwithNessus)
 
 <h2>Certifications</h2>
 
